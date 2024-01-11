@@ -35,5 +35,10 @@ console.log(true && false);
 console.log(false && true);
 console.log(false && false);
 
+let q = 70;
+q+=10
+console.log(q);
+console.log(q+1);
+console.log(q);
 
-
+console.log(++q);
